@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-(./Assets/images/ram-homework-image.jpg)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/ram-homework-image.jpg)
 
-url: https://ramksharma1.github.io/homework1/
+url: https://ramksharma1.github.io/homework1_css_code_refactor/
 
