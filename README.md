@@ -29,7 +29,7 @@ THEN I find a concise, descriptive title
 
 The following image shows the web application's appearance and functionality:
 
-(assets/images/ram-homework-image.JPG)
+![](https://github.com/ramksharma1/homework1_css_code_refactor/blob/master/assets/images/ram-homework-image.JPG)
 
 url: https://ramksharma1.github.io/homework1_css_code_refactor/
 
